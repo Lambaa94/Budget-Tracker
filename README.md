@@ -19,11 +19,11 @@ This application will allow you to track your budget online and offline. It uses
 
 *Below is a GIF demonstrating the usage of the application*
 
-![Gif-of-application](./GIF/demo.gif)
+![Gif-of-application](./demo.gif)
 
 *Below is a link to the deployed application.*
 
-**
+*https://budgetledger.herokuapp.com/*
 
 ## Installation
 
